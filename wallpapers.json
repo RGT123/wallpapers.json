@@ -17,6 +17,12 @@
       "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
       "name":" Flamingos",
       "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
+    },
+    {
+      "author": "Tom Wellington",
+      "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
+      "name":" Big Sur",
+      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
     }
   ]
 }
